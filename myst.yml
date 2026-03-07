@@ -16,14 +16,45 @@ project:
   authors:
     - name: Eric Araujo
       email: eric.araujo@calvin.edu
-      roles:
-        - Associate Professor
       affiliations:
         - Calvin University
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: organization.md
+    - file: course-tracker.md
+    - file: student-guide.md
+    - title: Content
+      children:
+        - title: Week 00
+          children:
+            - file: week00/slos.md
+        - title: Week 01
+          children:
+            - file: week01/slos.md
+        - title: Week 02
+          children:
+            - file: week02/slos.md
+        - title: Week 03
+          children:
+            - file: week03/slos.md
+        - title: Week 04
+          children:
+            - file: week04/slos.md
+        - title: Week 05
+          children:
+            - file: week05/slos.md
+        - title: Week 06
+          children:
+            - file: week06/slos.md
+        - title: Week 07
+          children:
+            - file: week07/slos.md
 site:
   template: book-theme
-  # options:
+  options:
+    favicon: figures/Calvin-150-logo.png
+    logo: figures/calvin-logo.png
+    logo_dark: figures/Calvin-logo-inverse.png
   #   favicon: favicon.ico
   #   logo: site_logo.png

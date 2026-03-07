@@ -1,0 +1,149 @@
+---
+title: Weekly Content Tracker
+subtitle: DBMS Course
+date: 2026-03-07
+---
+
+<!-- > **How to use:** Mark `Status` with ✅ Covered / 🔄 In Progress / ⬜ Not Yet / ⏭️ Skipped. -->
+
+The main material for this class is the textbook *Getting Started with SQL and Databases* by Mark Simon, which is available for free using the [Hekman Library](https://calvin.primo.exlibrisgroup.com/permalink/01CALVIN_INST/nvgmcc/alma991014067486808316). Each week, we will cover specific chapters and sections from the book, along with additional resources and exercises.
+
+---
+
+## Week 0 — Starting with SQL *(Ch. 1)*
+
+*First contact: reading data, selecting columns, filtering rows, ordering results.*
+
+| # | Topic | Subtopic | Status | Notes |
+|---|-------|----------|--------|-------|
+| 1 | DQL | SELECT — Basic statement | ⬜ | |
+| 2 | DQL | SELECT — Specific columns | ⬜ | |
+| 3 | DQL | SELECT — Calculated columns & Aliases | ⬜ | |
+| 4 | DQL | WHERE — Filtering rows | ⬜ | |
+| 5 | DQL | ORDER BY — ASC / DESC | ⬜ | |
+| 6 | DQL | DISTINCT rows | ⬜ | |
+| 7 | DQL | Comments in SQL | ⬜ | |
+
+---
+
+## Week 1 — Database Structure and Design *(Ch. 2)*
+
+*Understanding how data is organized before writing serious queries.*
+
+| # | Topic | Subtopic | Status | Notes |
+|---|-------|----------|--------|-------|
+| 8 | DDL | What is a database | ⬜ | |
+| 9 | DDL | Tables and their structure | ⬜ | |
+| 10 | DDL | Normalized tables | ⬜ | |
+| 11 | DDL | Multiple values / relationships | ⬜ | |
+
+---
+
+## Week 2 — Filtering Data *(Ch. 3)*
+
+*Deep dive into WHERE: NULLs, data types in filters, logical operators, wildcards.*
+
+| # | Topic | Subtopic | Status | Notes |
+|---|-------|----------|--------|-------|
+| 12 | DQL | WHERE — NULL handling (IS NULL / IS NOT NULL) | ⬜ | |
+| 13 | DQL | WHERE — Filtering numbers | ⬜ | |
+| 14 | DQL | WHERE — Filtering strings & case sensitivity | ⬜ | |
+| 15 | Functions | String functions in WHERE | ⬜ | |
+| 16 | DQL | WHERE — Filtering dates | ⬜ | |
+| 17 | Operators | Logical — AND / OR / NOT | ⬜ | |
+| 18 | Operators | IN operator | ⬜ | |
+| 19 | DQL | WHERE — Wildcard matches (LIKE) | ⬜ | |
+
+---
+
+## Week 3 — Ordering Results & Calculating Values *(Ch. 4 & 5)*
+
+*Sorting deeply, limiting results, and computing new values inside queries.*
+
+| # | Topic | Subtopic | Status | Notes |
+|---|-------|----------|--------|-------|
+| 20 | DQL | ORDER BY — Multiple columns | ⬜ | |
+| 21 | DQL | ORDER BY — NULL behavior | ⬜ | |
+| 22 | Data Types | Data types and sort behavior | ⬜ | |
+| 23 | DQL | LIMIT / OFFSET / Paging | ⬜ | |
+| 24 | DQL | SELECT — Calculated columns (deep) | ⬜ | |
+| 25 | Functions | NULL functions (COALESCE, NULLIF, etc.) | ⬜ | |
+| 26 | Operators | Arithmetic operators | ⬜ | |
+| 27 | Functions | Numeric functions (ROUND, FLOOR, CEIL…) | ⬜ | |
+| 28 | Functions | Datetime functions | ⬜ | |
+| 29 | Functions | String functions (UPPER, TRIM, SUBSTR…) | ⬜ | |
+| 30 | DQL | Subqueries (intro) | ⬜ | |
+| 31 | DQL | CASE expression | ⬜ | |
+| 32 | Data Types | CAST — Type conversion | ⬜ | |
+| 33 | DDL | Targets — VIEW (CREATE VIEW) | ⬜ | |
+
+---
+
+## Week 5 — Joining Tables *(Ch. 6)*
+
+*Conceptual peak: combining multiple tables with all join types.*
+
+| # | Topic | Subtopic | Status | Notes |
+|---|-------|----------|--------|-------|
+| 34 | DQL | FROM — How a JOIN works | ⬜ | |
+| 35 | DQL | FROM — INNER JOIN | ⬜ | |
+| 36 | DQL | FROM — LEFT OUTER JOIN | ⬜ | |
+| 37 | DQL | FROM — RIGHT OUTER JOIN | ⬜ | |
+| 38 | DQL | FROM — FULL OUTER JOIN | ⬜ | |
+| 39 | DQL | FROM — CROSS JOIN | ⬜ | |
+| 40 | DQL | Table aliases | ⬜ | |
+| 41 | DQL | Joining many tables | ⬜ | |
+| 42 | DQL | Self-join | ⬜ | |
+
+---
+
+## Week 6 — Aggregating Data *(Ch. 7)*
+
+*Counting, summarizing, grouping, and filtering grouped results.*
+
+| # | Topic | Subtopic | Status | Notes |
+|---|-------|----------|--------|-------|
+| 43 | DQL | COUNT — Counting rows and values | ⬜ | |
+| 44 | DQL | DISTINCT in aggregates | ⬜ | |
+| 45 | Functions | Numeric aggregates (SUM, AVG, MIN, MAX) | ⬜ | |
+| 46 | DQL | GROUP BY | ⬜ | |
+| 47 | DQL | GROUP BY — Multiple tables | ⬜ | |
+| 48 | DQL | HAVING — Filtering grouped results | ⬜ | |
+| 49 | DQL | CTE — Common Table Expressions (intro) | ⬜ | |
+
+---
+
+## Week 7 — Working with Tables & Set Operations *(Ch. 8 & 9)*
+
+*DDL, DML, access control, and advanced set operations.*
+
+| # | Topic | Subtopic | Status | Notes |
+|---|-------|----------|--------|-------|
+| 50 | Data Types | Column data types (full overview) | ⬜ | |
+| 51 | DDL | Targets — TABLE (CREATE TABLE) | ⬜ | |
+| 52 | DDL | Targets — CONSTRAINTS (NOT NULL, UNIQUE, DEFAULT, CHECK) | ⬜ | |
+| 53 | DDL | Targets — CONSTRAINTS — Foreign Keys | ⬜ | |
+| 54 | DDL | Targets — INDEX | ⬜ | |
+| 55 | DML | INSERT | ⬜ | |
+| 56 | DML | DELETE | ⬜ | |
+| 57 | DML | UPDATE | ⬜ | |
+| 58 | DDL | Operations — ALTER TABLE | ⬜ | |
+| 59 | DCL | Security — GRANT / REVOKE (intro) | ⬜ | |
+| 60 | DQL | Set operations — UNION | ⬜ | |
+| 61 | DQL | Set operations — INTERSECT | ⬜ | |
+| 62 | DQL | Set operations — EXCEPT / MINUS | ⬜ | |
+
+---
+
+## Progress Summary
+
+| Week | Theme | Book Chapter(s) | Total Topics | ✅ Covered | 🔄 In Progress | ⬜ Not Yet |
+|------|-------|-----------------|-------------|-----------|----------------|-----------|
+| 1 | Starting with SQL | Ch. 1 | 7 | 0 | 0 | 7 |
+| 2 | Database Structure | Ch. 2 | 4 | 0 | 0 | 4 |
+| 3 | Filtering Data | Ch. 3 | 8 | 0 | 0 | 8 |
+| 4 | Ordering & Calculating | Ch. 4–5 | 14 | 0 | 0 | 14 |
+| 5 | Joining Tables | Ch. 6 | 9 | 0 | 0 | 9 |
+| 6 | Aggregating Data | Ch. 7 | 7 | 0 | 0 | 7 |
+| 7 | Tables, DML & Set Ops | Ch. 8–9 | 13 | 0 | 0 | 13 |
+| **Total** | | | **62** | **0** | **0** | **62** |
