@@ -22,6 +22,7 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: organization.md
+    - file: policies.md
     - file: course-tracker.md
     - file: student-guide.md
     - title: Content
