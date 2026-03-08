@@ -1,0 +1,20 @@
+
+---
+title: SLOs
+subtitle: Designing Databases
+---
+
+## Week 01: March 23-27
+
+:::{admonition} 📅 Advising Days
+:class: note
+:icon: false
+Advising days on March 25–26. No lecture on March 25th.
+:::
+
+At the end of this week, you should be able to:
+
+1. Explain what a database is and how it differs from a simple file or spreadsheet.
+2. Describe the structure of a database table, including rows, columns, and data types.
+3. Explain what normalization is and why it matters for database design.
+4. Model relationships between entities and recognize when multiple tables are needed to represent data correctly.
