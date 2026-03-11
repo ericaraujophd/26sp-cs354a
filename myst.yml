@@ -33,6 +33,7 @@ project:
         - title: Week 01
           children:
             - file: week01/slos.md
+            - file: week01/hw1.md
         - title: Week 02
           children:
             - file: week02/slos.md
