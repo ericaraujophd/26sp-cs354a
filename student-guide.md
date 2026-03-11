@@ -1,5 +1,7 @@
-# Getting Started with SQL Homework
-### Setup Guide for Students
+---
+title: Setup Guide for Students
+subtitle:  Getting Started with SQL Homework
+---
 
 ---
 
