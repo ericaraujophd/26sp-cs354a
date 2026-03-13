@@ -40,6 +40,7 @@ project:
         - title: Week 03
           children:
             - file: week03/slos.md
+            - file: week03/hw2.md
         - title: Week 04
           children:
             - file: week04/slos.md
