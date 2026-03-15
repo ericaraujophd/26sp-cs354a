@@ -79,7 +79,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 5 — Joining Tables *(Ch. 6)*
+## Week 4 — Joining Tables *(Ch. 6)*
 
 *Conceptual peak: combining multiple tables with all join types.*
 
@@ -97,7 +97,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 6 — Aggregating Data *(Ch. 7)*
+## Week 5 — Aggregating Data *(Ch. 7)*
 
 *Counting, summarizing, grouping, and filtering grouped results.*
 
@@ -113,7 +113,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 7 — Working with Tables & Set Operations *(Ch. 8 & 9)*
+## Week 6 — Working with Tables & Set Operations *(Ch. 8 & 9)*
 
 *DDL, DML, access control, and advanced set operations.*
 

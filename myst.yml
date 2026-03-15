@@ -27,23 +27,20 @@ project:
     - file: student-guide.md
     - title: Content
       children:
-        - title: Week 00
-          children:
-            - file: week00/slos.md
         - title: Week 01
           children:
             - file: week01/slos.md
-            - file: week01/hw1.md
         - title: Week 02
           children:
             - file: week02/slos.md
+            - file: week02/hw1.md
         - title: Week 03
           children:
             - file: week03/slos.md
-            - file: week03/hw2.md
         - title: Week 04
           children:
             - file: week04/slos.md
+            - file: week04/hw2.md
         - title: Week 05
           children:
             - file: week05/slos.md
@@ -53,6 +50,9 @@ project:
         - title: Week 07
           children:
             - file: week07/slos.md
+        - title: Week 08
+          children:
+            - file: week08/slos.md
 site:
   template: book-theme
   options:

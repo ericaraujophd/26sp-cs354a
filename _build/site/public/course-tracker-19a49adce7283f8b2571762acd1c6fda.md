@@ -113,7 +113,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 7 — Working with Tables & Set Operations *(Ch. 8 & 9)*
+## Week 6 — Working with Tables & Set Operations *(Ch. 8 & 9)*
 
 *DDL, DML, access control, and advanced set operations.*
 

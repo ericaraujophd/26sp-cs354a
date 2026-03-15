@@ -26,7 +26,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 2 — Database Structure and Design *(Ch. 2)*
+## Week 1 — Database Structure and Design *(Ch. 2)*
 
 *Understanding how data is organized before writing serious queries.*
 
@@ -39,7 +39,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 3 — Filtering Data *(Ch. 3)*
+## Week 2 — Filtering Data *(Ch. 3)*
 
 *Deep dive into WHERE: NULLs, data types in filters, logical operators, wildcards.*
 
@@ -56,7 +56,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 4 — Ordering Results & Calculating Values *(Ch. 4 & 5)*
+## Week 3 — Ordering Results & Calculating Values *(Ch. 4 & 5)*
 
 *Sorting deeply, limiting results, and computing new values inside queries.*
 
@@ -79,7 +79,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 5 — Joining Tables *(Ch. 6)*
+## Week 4 — Joining Tables *(Ch. 6)*
 
 *Conceptual peak: combining multiple tables with all join types.*
 
@@ -97,7 +97,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 6 — Aggregating Data *(Ch. 7)*
+## Week 5 — Aggregating Data *(Ch. 7)*
 
 *Counting, summarizing, grouping, and filtering grouped results.*
 
@@ -113,7 +113,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 ---
 
-## Week 7 — Working with Tables & Set Operations *(Ch. 8 & 9)*
+## Week 6 — Working with Tables & Set Operations *(Ch. 8 & 9)*
 
 *DDL, DML, access control, and advanced set operations.*
 
