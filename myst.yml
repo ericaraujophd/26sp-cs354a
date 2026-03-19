@@ -55,6 +55,9 @@ project:
             - file: week08/slos.md
 site:
   template: book-theme
+  actions:
+    - title: "📅 My Calendar"
+      url: https://outlook.office365.com/owa/calendar/c0bd07a3f1d64aaf9a74c91921ce7536@calvin.edu/79189cd730424803bceba861959c7e752179000899390454025/calendar.html
   options:
     favicon: figures/Calvin-150-logo.png
     logo: figures/calvin-logo.png
