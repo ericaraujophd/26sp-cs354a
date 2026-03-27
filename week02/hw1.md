@@ -3,7 +3,7 @@ title: Homework 1
 subtitle: Starting with SQL
 ---
 
-- **Due:** Friday, March 28 at 11:55pm
+- **Due:** Friday, March 27 at 11:55pm
 - **Points:** 100 (20 questions × 5 points each)
 - **Submission:** via GitHub Classroom
 
