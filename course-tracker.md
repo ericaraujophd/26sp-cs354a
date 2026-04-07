@@ -1,7 +1,7 @@
 ---
 title: Weekly Content Tracker
 subtitle: DBMS Course
-date: 2026-03-07
+date: 2026-04-07
 ---
 
 <!-- > **How to use:** Mark `Status` with ✅ Covered / 🔄 In Progress / ⬜ Not Yet / ⏭️ Skipped. -->
@@ -16,13 +16,13 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 | # | Topic | Subtopic | Status | Notes |
 |---|-------|----------|--------|-------|
-| 1 | DQL | SELECT — Basic statement | ⬜ | |
-| 2 | DQL | SELECT — Specific columns | ⬜ | |
-| 3 | DQL | SELECT — Calculated columns & Aliases | ⬜ | |
-| 4 | DQL | WHERE — Filtering rows | ⬜ | |
-| 5 | DQL | ORDER BY — ASC / DESC | ⬜ | |
-| 6 | DQL | DISTINCT rows | ⬜ | |
-| 7 | DQL | Comments in SQL | ⬜ | |
+| 1 | DQL | SELECT — Basic statement | ✅ | |
+| 2 | DQL | SELECT — Specific columns | ✅ | |
+| 3 | DQL | SELECT — Calculated columns & Aliases | ✅ | |
+| 4 | DQL | WHERE — Filtering rows | ✅ | |
+| 5 | DQL | ORDER BY — ASC / DESC | ✅ | |
+| 6 | DQL | DISTINCT rows | ✅ | |
+| 7 | DQL | Comments in SQL | ✅ | |
 
 ---
 
@@ -32,10 +32,10 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 | # | Topic | Subtopic | Status | Notes |
 |---|-------|----------|--------|-------|
-| 8 | DDL | What is a database | ⬜ | |
-| 9 | DDL | Tables and their structure | ⬜ | |
-| 10 | DDL | Normalized tables | ⬜ | |
-| 11 | DDL | Multiple values / relationships | ⬜ | |
+| 8 | DDL | What is a database | ✅ | |
+| 9 | DDL | Tables and their structure | ✅ | |
+| 10 | DDL | Normalized tables | ✅ | |
+| 11 | DDL | Multiple values / relationships | ✅ | |
 
 ---
 
@@ -45,14 +45,14 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 | # | Topic | Subtopic | Status | Notes |
 |---|-------|----------|--------|-------|
-| 12 | DQL | WHERE — NULL handling (IS NULL / IS NOT NULL) | ⬜ | |
-| 13 | DQL | WHERE — Filtering numbers | ⬜ | |
-| 14 | DQL | WHERE — Filtering strings & case sensitivity | ⬜ | |
-| 15 | Functions | String functions in WHERE | ⬜ | |
-| 16 | DQL | WHERE — Filtering dates | ⬜ | |
-| 17 | Operators | Logical — AND / OR / NOT | ⬜ | |
-| 18 | Operators | IN operator | ⬜ | |
-| 19 | DQL | WHERE — Wildcard matches (LIKE) | ⬜ | |
+| 12 | DQL | WHERE — NULL handling (IS NULL / IS NOT NULL) | ✅ | |
+| 13 | DQL | WHERE — Filtering numbers | ✅ | |
+| 14 | DQL | WHERE — Filtering strings & case sensitivity | ✅ | |
+| 15 | Functions | String functions in WHERE | ✅ | |
+| 16 | DQL | WHERE — Filtering dates | ✅ | |
+| 17 | Operators | Logical — AND / OR / NOT | ✅ | |
+| 18 | Operators | IN operator | ✅ | |
+| 19 | DQL | WHERE — Wildcard matches (LIKE) | ✅ | |
 
 ---
 
@@ -62,20 +62,20 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 | # | Topic | Subtopic | Status | Notes |
 |---|-------|----------|--------|-------|
-| 20 | DQL | ORDER BY — Multiple columns | ⬜ | |
-| 21 | DQL | ORDER BY — NULL behavior | ⬜ | |
-| 22 | Data Types | Data types and sort behavior | ⬜ | |
-| 23 | DQL | LIMIT / OFFSET / Paging | ⬜ | |
-| 24 | DQL | SELECT — Calculated columns (deep) | ⬜ | |
-| 25 | Functions | NULL functions (COALESCE, NULLIF, etc.) | ⬜ | |
-| 26 | Operators | Arithmetic operators | ⬜ | |
-| 27 | Functions | Numeric functions (ROUND, FLOOR, CEIL…) | ⬜ | |
-| 28 | Functions | Datetime functions | ⬜ | |
-| 29 | Functions | String functions (UPPER, TRIM, SUBSTR…) | ⬜ | |
-| 30 | DQL | Subqueries (intro) | ⬜ | |
-| 31 | DQL | CASE expression | ⬜ | |
-| 32 | Data Types | CAST — Type conversion | ⬜ | |
-| 33 | DDL | Targets — VIEW (CREATE VIEW) | ⬜ | |
+| 20 | DQL | ORDER BY — Multiple columns | 🔄 | |
+| 21 | DQL | ORDER BY — NULL behavior | 🔄 | |
+| 22 | Data Types | Data types and sort behavior | 🔄 | |
+| 23 | DQL | LIMIT / OFFSET / Paging | 🔄 | |
+| 24 | DQL | SELECT — Calculated columns (deep) | 🔄 | |
+| 25 | Functions | NULL functions (COALESCE, NULLIF, etc.) | 🔄 | |
+| 26 | Operators | Arithmetic operators | 🔄 | |
+| 27 | Functions | Numeric functions (ROUND, FLOOR, CEIL…) | 🔄 | |
+| 28 | Functions | Datetime functions | 🔄 | |
+| 29 | Functions | String functions (UPPER, TRIM, SUBSTR…) | 🔄 | |
+| 30 | DQL | Subqueries (intro) | 🔄 | |
+| 31 | DQL | CASE expression | 🔄 | |
+| 32 | Data Types | CAST — Type conversion | 🔄 | |
+| 33 | DDL | Targets — VIEW (CREATE VIEW) | 🔄 | |
 
 ---
 
