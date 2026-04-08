@@ -17,7 +17,7 @@ There are **30 questions worth 150 points total** (5 points each). All questions
 
 ## The Database
 
-The database is named **`indie_games`** and contains four tables.
+The database is named **`indiegames`** and contains four tables.
 
 ### `developers`
 
@@ -75,7 +75,7 @@ Player reviews for individual games.
 ### Entity-Relationship Diagram
 
 ```{figure} hw2_erd.png
-:alt: Entity-relationship diagram for the indie_games database
+:alt: Entity-relationship diagram for the indiegames database
 :width: 100%
 :align: center
 ```
@@ -162,7 +162,7 @@ Follow the same steps as hw01 to connect VSCode SQLTools to the database. Use th
 Connection name:  CS354
 Server:           localhost
 Port:             5432
-Database:         indie_games
+Database:         indiegames
 Username:         admin
 Password:         admin
 ```
