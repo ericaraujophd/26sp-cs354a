@@ -65,17 +65,17 @@ The main material for this class is the textbook *Getting Started with SQL and D
 | 20 | DQL | ORDER BY — Multiple columns | ✅ | |
 | 21 | DQL | ORDER BY — NULL behavior | ✅ | |
 | 22 | Data Types | Data types and sort behavior | ✅ | |
-| 23 | DQL | LIMIT / OFFSET / Paging | 🔄 | |
-| 24 | DQL | SELECT — Calculated columns (deep) | 🔄 | |
-| 25 | Functions | NULL functions (COALESCE, NULLIF, etc.) | 🔄 | |
-| 26 | Operators | Arithmetic operators | 🔄 | |
-| 27 | Functions | Numeric functions (ROUND, FLOOR, CEIL…) | 🔄 | |
-| 28 | Functions | Datetime functions | 🔄 | |
-| 29 | Functions | String functions (UPPER, TRIM, SUBSTR…) | 🔄 | |
-| 30 | DQL | Subqueries (intro) | 🔄 | |
-| 31 | DQL | CASE expression | 🔄 | |
-| 32 | Data Types | CAST — Type conversion | 🔄 | |
-| 33 | DDL | Targets — VIEW (CREATE VIEW) | 🔄 | |
+| 23 | DQL | LIMIT / OFFSET / Paging | ✅ | |
+| 24 | DQL | SELECT — Calculated columns (deep) | ✅ | |
+| 25 | Functions | NULL functions (COALESCE, NULLIF, etc.) | ✅ | |
+| 26 | Operators | Arithmetic operators | ✅ | |
+| 27 | Functions | Numeric functions (ROUND, FLOOR, CEIL…) | ✅ | |
+| 28 | Functions | Datetime functions | ✅ | |
+| 29 | Functions | String functions (UPPER, TRIM, SUBSTR…) | ✅ | |
+| 30 | DQL | Subqueries (intro) | ✅ | |
+| 31 | DQL | CASE expression | ✅ | |
+| 32 | Data Types | CAST — Type conversion | ✅ | |
+| 33 | DDL | Targets — VIEW (CREATE VIEW) | ✅ | |
 
 ---
 
@@ -85,15 +85,15 @@ The main material for this class is the textbook *Getting Started with SQL and D
 
 | # | Topic | Subtopic | Status | Notes |
 |---|-------|----------|--------|-------|
-| 34 | DQL | FROM — How a JOIN works | ⬜ | |
-| 35 | DQL | FROM — INNER JOIN | ⬜ | |
-| 36 | DQL | FROM — LEFT OUTER JOIN | ⬜ | |
-| 37 | DQL | FROM — RIGHT OUTER JOIN | ⬜ | |
-| 38 | DQL | FROM — FULL OUTER JOIN | ⬜ | |
-| 39 | DQL | FROM — CROSS JOIN | ⬜ | |
-| 40 | DQL | Table aliases | ⬜ | |
-| 41 | DQL | Joining many tables | ⬜ | |
-| 42 | DQL | Self-join | ⬜ | |
+| 34 | DQL | FROM — How a JOIN works | ✅ | |
+| 35 | DQL | FROM — INNER JOIN | ✅ | |
+| 36 | DQL | FROM — LEFT OUTER JOIN | ✅ | |
+| 37 | DQL | FROM — RIGHT OUTER JOIN | ✅ | |
+| 38 | DQL | FROM — FULL OUTER JOIN | ✅ | |
+| 39 | DQL | FROM — CROSS JOIN | ✅ | |
+| 40 | DQL | Table aliases | 🔄 | |
+| 41 | DQL | Joining many tables | 🔄 | |
+| 42 | DQL | Self-join | 🔄 | |
 
 ---
 
@@ -142,8 +142,8 @@ The main material for this class is the textbook *Getting Started with SQL and D
 | 1 | Starting with SQL | Ch. 1 | 7 | 7 | 0 | 0 |
 | 2 | Database Structure | Ch. 2 | 4 | 4 | 0 | 0 |
 | 3 | Filtering Data | Ch. 3 | 8 | 8 | 0 | 0 |
-| 4 | Ordering & Calculating | Ch. 4–5 | 14 | 3 | 11 | 0 |
-| 5 | Joining Tables | Ch. 6 | 9 | 0 | 0 | 9 |
+| 4 | Ordering & Calculating | Ch. 4–5 | 14 | 14 | 0 | 0 |
+| 5 | Joining Tables | Ch. 6 | 9 | 6 | 3 | 0 |
 | 6 | Aggregating Data | Ch. 7 | 7 | 0 | 0 | 7 |
 | 7 | Tables, DML & Set Ops | Ch. 8–9 | 13 | 0 | 0 | 13 |
-| **Total** | | | **62** | **22** | **11** | **29** |
+| **Total** | | | **62** | **39** | **3** | **20** |

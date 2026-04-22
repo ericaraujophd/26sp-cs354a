@@ -22,6 +22,23 @@ This course is organized into weekly modules, each covering specific topics in S
 
 ---
 
+## Schedule
+
+The schedule for lectures, quizzes, and assignments is as follows:
+
+| Week | Dates | Topics | Quiz | Homework |
+|---|---|---|---|---|
+| 1 | Mar 16-20 | Starting with SQL | ✅ 1: Mar 20 | ❌ |
+| 2 | Mar 23-27 | Database Structure & Design | ✅ 2: Mar 27 | ✅ 1 |
+| 3 | Mar 30-Apr 3 | Filtering Data | ❌ (Good Friday) | ❌ |
+| 4 | Apr 6-10 | Ordering Results & Calculating Values | ✅ 3: Apr 10 | ✅ 2 |
+| 5 | Apr 13-17 | Joining Tables | ❌ | ✅ 3 |
+| 6 | Apr 20-24 | Aggregating Data | ✅ 4: Apr 24 | ❌ |
+| 7 | Apr 27-May 1 | Working with Tables & Set Operations | ❌ | ✅ 4 |
+| 8 | May 2-May 7 | Final Project | ❌ | ⏰ Final Project Due 5/7 |
+
+---
+
 ## Lectures
 
 CS354 is organized by **week**. Each week is structured as follows:
@@ -57,18 +74,3 @@ The textbook for this course is:
 - A setup guide for how to do the assignments is available on the [Student Guide](student-guide.md) page.
 
 ---
-
-## Schedule
-
-The schedule for lectures, quizzes, and assignments is as follows:
-
-| Week | Dates | Topics | Quiz | Homework |
-|---|---|---|---|---|
-| 1 | Mar 16-20 | Starting with SQL | ✅ Mar 20 | ❌ |
-| 2 | Mar 23-27 | Database Structure & Design | ✅ Mar 27 | ✅ 1 |
-| 3 | Mar 30-Apr 3 | Filtering Data | ❌ (Good Friday) | ❌ |
-| 4 | Apr 6-10 | Ordering Results & Calculating Values | ✅ Apr 10 | ✅ 2 |
-| 5 | Apr 13-17 | Joining Tables | ✅ Apr 17 | ✅ 3 |
-| 6 | Apr 20-24 | Aggregating Data | ✅ Apr 24 | ✅ 4 |
-| 7 | Apr 27-May 1 | Working with Tables & Set Operations | ✅ May 1 | ✅ 5 |
-| 8 | May 2-May 7 | Final Project | ❌ | ⏰ Final Project Due 5/7 |
