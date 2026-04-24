@@ -51,6 +51,7 @@ project:
         - title: Week 07
           children:
             - file: week07/slos.md
+            - file: week07/hw4.md
         - title: Week 08
           children:
             - file: week08/slos.md
