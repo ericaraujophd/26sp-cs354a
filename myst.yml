@@ -55,6 +55,7 @@ project:
         - title: Week 08
           children:
             - file: week08/slos.md
+            - file: week08/final-project.md
 site:
   template: book-theme
   actions:
