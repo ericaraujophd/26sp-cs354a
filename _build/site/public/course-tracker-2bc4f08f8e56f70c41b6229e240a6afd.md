@@ -91,9 +91,9 @@ The main material for this class is the textbook *Getting Started with SQL and D
 | 37 | DQL | FROM — RIGHT OUTER JOIN | ✅ | |
 | 38 | DQL | FROM — FULL OUTER JOIN | ✅ | |
 | 39 | DQL | FROM — CROSS JOIN | ✅ | |
-| 40 | DQL | Table aliases | ✅ | |
-| 41 | DQL | Joining many tables | ✅ | |
-| 42 | DQL | Self-join | ✅ | |
+| 40 | DQL | Table aliases | 🔄 | |
+| 41 | DQL | Joining many tables | 🔄 | |
+| 42 | DQL | Self-join | 🔄 | |
 
 ---
 
@@ -105,11 +105,11 @@ The main material for this class is the textbook *Getting Started with SQL and D
 |---|-------|----------|--------|-------|
 | 43 | DQL | COUNT — Counting rows and values | 🔄 | |
 | 44 | DQL | DISTINCT in aggregates | 🔄 | |
-| 45 | Functions | Numeric aggregates (SUM, AVG, MIN, MAX) | 🔄 | |
-| 46 | DQL | GROUP BY | 🔄 | |
-| 47 | DQL | GROUP BY — Multiple tables | 🔄 | |
-| 48 | DQL | HAVING — Filtering grouped results | 🔄 | |
-| 49 | DQL | CTE — Common Table Expressions (intro) | 🔄 | |
+| 45 | Functions | Numeric aggregates (SUM, AVG, MIN, MAX) | ⬜ | |
+| 46 | DQL | GROUP BY | ⬜ | |
+| 47 | DQL | GROUP BY — Multiple tables | ⬜ | |
+| 48 | DQL | HAVING — Filtering grouped results | ⬜ | |
+| 49 | DQL | CTE — Common Table Expressions (intro) | ⬜ | |
 
 ---
 
@@ -143,7 +143,7 @@ The main material for this class is the textbook *Getting Started with SQL and D
 | 2 | Database Structure | Ch. 2 | 4 | 4 | 0 | 0 |
 | 3 | Filtering Data | Ch. 3 | 8 | 8 | 0 | 0 |
 | 4 | Ordering & Calculating | Ch. 4–5 | 14 | 14 | 0 | 0 |
-| 5 | Joining Tables | Ch. 6 | 9 | 9 | 0 | 0 |
-| 6 | Aggregating Data | Ch. 7 | 7 | 0 | 7 | 0 |
+| 5 | Joining Tables | Ch. 6 | 9 | 6 | 3 | 0 |
+| 6 | Aggregating Data | Ch. 7 | 7 | 0 | 0 | 7 |
 | 7 | Tables, DML & Set Ops | Ch. 8–9 | 13 | 0 | 0 | 13 |
-| **Total** | | | **62** | **42** | **7** | **13** |
+| **Total** | | | **62** | **39** | **3** | **20** |
