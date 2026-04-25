@@ -61,7 +61,7 @@ CS354 is organized by **week**. Each week is structured as follows:
 | Component | Percentage |
 |---|---|
 | Quizzes (4) | 30% |
-| Assignments (4) | 40% |
+| Assignments (5) | 40% |
 | Final Project (1) | 30% |
 
 ---
