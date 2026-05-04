@@ -64,6 +64,9 @@ site:
   options:
     favicon: figures/Calvin-150-logo.png
     logo: figures/calvin-logo.png
+    # banner: figures/calvin-logo.png
     logo_dark: figures/Calvin-logo-inverse.png
+    hide_authors: true
+    numbered_references: true
   #   favicon: favicon.ico
   #   logo: site_logo.png

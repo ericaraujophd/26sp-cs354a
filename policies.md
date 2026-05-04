@@ -57,6 +57,8 @@ Late submissions will be penalized **10% per working day** past the deadline. Th
 
 If you have extenuating circumstances, reach out to me **as early as possible** — the sooner you communicate, the more options we have.
 
+No assignments or quizzes retakes will be allowed after **the last day of classes**. If you miss a quiz, you will receive a zero for that quiz. If you miss an assignment, you will receive a zero for that assignment. If you have a valid excuse for missing a quiz or an assignment, please contact me as soon as possible to discuss your options.
+
 ---
 
 ### Disabilities and Accommodations
